@@ -1,0 +1,19 @@
+{
+    "name": "nirab/boomcastsms",
+    "description": "THis is a simple package for laravel , you can send sms using with boomcast sms api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IANirab",
+            "email": "istiaqanirab202@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nirab\\boomcastsms\\": "src/"
+        }
+    }
+}
