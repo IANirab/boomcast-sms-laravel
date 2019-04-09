@@ -1,4 +1,9 @@
 # boomcast-sms-laravel
+
+[![Generic badge](https://img.shields.io/badge/Verson-v1.0-<COLOR>.svg)](https://github.com/IANirab/boomcast-sms-laravel/releases)
+[![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://github.com/IANirab/boomcast-sms-laravel/releases)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/IANirab/boomcast-sms-laravel/issues)
+
 THis is a simple package for laravel , you can send sms using with boomcast sms api
 
 ### Install
